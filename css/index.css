@@ -19,7 +19,8 @@ font-weight: bold;
 text-align: center;
 }
 
- p {
+ .text:after{
+   /*mg src="images/zapp.png"*/
    background-color: #3194F7;
    text-align: justify;
    font-family: helvetica;
