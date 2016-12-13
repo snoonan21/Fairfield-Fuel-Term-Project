@@ -13,8 +13,12 @@ font-weight: bold;
 }
 
 #events{
-  color: #FF0000;
+color: #FF0000;
 font-family: helvetica;
 font-weight: bold;
 text-align: center;
+}
+
+.events{
+  text-align: center;
 }
