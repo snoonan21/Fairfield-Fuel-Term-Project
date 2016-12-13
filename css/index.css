@@ -4,4 +4,10 @@ body{
 #startups{
   color: #FF0000;
   font-family: helvetica;
+  font-weight: bold;
+}
+#info{
+color: #FF0000;
+font-family: helvetica;
+font-weight: bold;
 }
