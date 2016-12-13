@@ -19,6 +19,8 @@ font-weight: bold;
 text-align: center;
 }
 
- .events ul{
-  text-align: center;
-}
+ #zappscript{
+   background-color:#3194F7;
+   text-align: justify;
+ }
+ 
