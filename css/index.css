@@ -43,5 +43,7 @@ text-align: center;
 }
 
 .rownewcarousel{
-  float: bottom
+  width: 75%;
+  height: 200px;
+  margin-top: auto;
 }
