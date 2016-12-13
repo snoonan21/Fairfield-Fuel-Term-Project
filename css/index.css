@@ -19,8 +19,7 @@ font-weight: bold;
 text-align: center;
 }
 
- .text:after{
-   /*mg src="images/zapp.png"*/
+ p #zappscript{
    background-color: #3194F7;
    text-align: justify;
    font-family: helvetica;
