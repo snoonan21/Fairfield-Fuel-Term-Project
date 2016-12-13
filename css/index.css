@@ -1,6 +1,7 @@
 body{
   background-color: lightgray;
 }
-.info{
-  font-color: "#FF0000";
+.startups{
+  color: #FF0000;
+  font-family: helvetica;
 }
