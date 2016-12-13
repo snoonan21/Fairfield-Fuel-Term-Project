@@ -19,8 +19,6 @@ font-weight: bold;
 text-align: center;
 }
 
- #zappscript p{
-   background-color: #3194F7;
-   text-align: justify;
-   font-family: helvetica;
- }
+ img{
+ align-items: center;
+}
