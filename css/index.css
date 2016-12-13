@@ -26,9 +26,6 @@ text-align: center;
   color: #FFF;
 }
 
-.navbar navbar-default{
-  background-color: #5E5F60;
-  font-family: helvetica;
-  font-weight: bold
-  color: #FFF;
+p{
+  background-color:#FFF
 }
