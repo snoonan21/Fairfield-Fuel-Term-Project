@@ -25,23 +25,3 @@ text-align: center;
   font-weight: bold
   color: #FFF;
 }
-
-#description{
-  background-color: #FFF;
-}
-
-#zappscript{
-  background-color: #3194F7
-}
-
-#redimedscript{
-  background-color: #33FFFF
-}
-
-#favrscript{
-  background-color:#FF8000
-}
-.rowcarousel{
-  padding-top: 50px;
-  padding-bottom: 70px;
-}
