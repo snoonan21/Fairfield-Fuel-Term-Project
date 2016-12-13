@@ -19,7 +19,7 @@ font-weight: bold;
 text-align: center;
 }
 
-.navbar-header{
+.navbar-default .navbar-nav>li>{
   background-color: #5E5F60;
   font-family: helvetica;
   font-weight: bold
