@@ -11,3 +11,14 @@ color: #FF0000;
 font-family: helvetica;
 font-weight: bold;
 }
+
+#events{
+color: #FF0000;
+font-family: helvetica;
+font-weight: bold;
+text-align: center;
+}
+
+ .events ul{
+  text-align: center;
+}
