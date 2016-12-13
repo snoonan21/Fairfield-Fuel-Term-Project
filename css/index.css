@@ -26,10 +26,6 @@ text-align: center;
   color: #FFF;
 }
 
-#bs-example-navbar-collapse-1{
-  background-color: #5E5F60;
-  font-family: helvetica;
-  font-weight: bold;
-  font-size: 20px;
+.navbar-default .navbar-nav>li>a {
   color: #FFF;
 }
