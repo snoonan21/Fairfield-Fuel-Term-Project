@@ -22,8 +22,10 @@ text-align: center;
 .navbar-default .navbar-nav>li>a{
   background-color: #5E5F60;
   font-family: helvetica;
-  font-weight: bold
   color: #FFF;
+  font-weight: bold
+
+
 }
 
 #description{
