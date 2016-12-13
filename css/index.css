@@ -42,10 +42,6 @@ text-align: center;
   background-color:#FF8000
 }
 
-
-    .carousel-inner > .item > a > img {
-  height: 200px;
-}
-.rownewcarousel{
-
+.rowcarousel{
+  padding-top: 30px;
 }
